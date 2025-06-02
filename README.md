@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<!-- Replaced cartoon gif with male character gif -->
+<img align="right" height="150" src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" />
 
 ###
 
