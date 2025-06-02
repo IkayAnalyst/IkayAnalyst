@@ -8,27 +8,6 @@
 
 ###
 
-<h3 align="left">📊 Tools & Technologies Usage:</h3>
-
-<div align="left">
-  <p>📈 <strong>Excel</strong></p>
-  <div style="background-color: #444; width: 100%; border-radius: 10px;">
-    <div style="background-color: #1D6F42; width: 80%; padding: 5px; border-radius: 10px; color: white; text-align: right;">80%</div>
-  </div>
-  <br />
-  <p>📈 <strong>Power BI</strong></p>
-  <div style="background-color: #444; width: 100%; border-radius: 10px;">
-    <div style="background-color: #F2C811; width: 89%; padding: 5px; border-radius: 10px; color: black; text-align: right;">89%</div>
-  </div>
-  <br />
-  <p>📈 <strong>MySQL</strong></p>
-  <div style="background-color: #444; width: 100%; border-radius: 10px;">
-    <div style="background-color: #00758F; width: 90%; padding: 5px; border-radius: 10px; color: white; text-align: right;">90%</div>
-  </div>
-</div>
-
-###
-
 <h3 align="left">💼 My Core Skills:</h3>
 
 <div align="left">
@@ -43,17 +22,7 @@
 
 ###
 
-<h3 align="left">💋 Projects Showcase:</h3>
-
-<ul>
-  <li><strong>Student Result & GPA Tracker (Excel)</strong>: Automated grading, GPA calculation, and classification with conditional formatting.</li>
-  <li><strong>Mini Banking System (MySQL)</strong>: Simulates core banking operations using relational database queries and transactions.</li>
-  <li><strong>U.S. Traffic Incident Analysis (Power BI)</strong>: Dashboard providing insights into traffic events across various U.S. cities.</li>
-</ul>
-
-###
-
-<h3 align="left">📢 Connect with Me:</h3>
+<h3 align="left">📫 Connect with Me:</h3>
 
 <div align="left">
   <a href="mailto:your.email@example.com" target="_blank">
