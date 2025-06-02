@@ -54,6 +54,11 @@ In my free time I build real-world data dashboards and solve analytical problems
   </a>
 </div>
 
+<br>
+
+<p><strong>📧 Email:</strong> <a href="mailto:ikayanalystsolutions@gmail.com">ikayanalystsolutions@gmail.com</a></p>
+
+
 
 ###
 
