@@ -1,7 +1,11 @@
-<h2 align="left">Hi 👋! I'm Ikay Analyst Solutions, a data enthusiast based in Lagos, Nigeria 📊 I’m working as a Data Analyst with hands-on experience in Excel, SQL, Power BI, Python 📚 I'm currently learning advanced data visualization and database design ⚡ In my free time I build real-world data dashboards and solve analytical problems</h2>
+<h2 align="left">Hi 👋! I'm Ikay Analyst Solutions, a data enthusiast based in Lagos, Nigeria 📊  
+I’m working as a Data Analyst with hands-on experience in Excel, SQL, Power BI, Python 📚  
+I'm currently learning advanced data visualization and database design ⚡  
+In my free time I build real-world data dashboards and solve analytical problems</h2>
 
 ###
 
+<!-- GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ikayanalyst&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikayanalyst&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Most%20Used%20Language:%20Python" height="150" alt="Top Languages" />
@@ -9,8 +13,8 @@
 
 ###
 
-<!-- Replaced cartoon gif with male character gif -->
-<img align="right" height="150" src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" />
+<!-- Professional Animation (Male Analyst Character) -->
+<img align="right" height="150" src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" alt="Data analyst animation" />
 
 ###
 
@@ -31,17 +35,14 @@
 <h3 align="left">📊 Tool Proficiency Dashboard:</h3>
 
 <div align="left">
-
-<strong>Excel:</strong> ▓▓▓▓▓▓▓▓▓░ 80%<br>
-<strong>Power BI:</strong> ▓▓▓▓▓▓▓▓▓▓░ 89%<br>
-<strong>MySQL:</strong> ▓▓▓▓▓▓▓▓▓▓░ 90%
-
+  <strong>Excel:</strong> ▓▓▓▓▓▓▓▓▓░ 80%<br>
+  <strong>Power BI:</strong> ▓▓▓▓▓▓▓▓▓▓░ 89%<br>
+  <strong>MySQL:</strong> ▓▓▓▓▓▓▓▓▓▓░ 90%
 </div>
 
 ###
 
-
-
+<h3 align="left">📫 Connect with Me:</h3>
 
 <div align="left">
   <a href="mailto:your.ikayanalystsolutions@gmail.com" target="_blank">
@@ -60,7 +61,9 @@
 
 ###
 
-<br clear="both">
+<!-- Educational Animation -->
+<h3 align="left">📈 Data is Beautiful!</h3>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="200" alt="Educational Chart Animation" />
+</div>
