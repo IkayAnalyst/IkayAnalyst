@@ -56,7 +56,7 @@ In my free time I build real-world data dashboards and solve analytical problems
 
 <br>
 
-<p><strong>📧 Email:</strong> <a href="mailto:ikayanalystsolutions@gmail.com">ikayanalystsolutions@gmail.com</a></p>
+<p><strong>📧 Email:</strong> <a href="mailto:ikayanalystsolutions@gmail.com"
 
 <p><strong>📅 Book a Free Discovery Call:</strong>  
 <a href="https://calendly.com/myexcel57/30min" target="_blank">
