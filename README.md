@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ###
 
@@ -23,6 +23,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+</div>
+
+###
+
+<h3 align="left">📊 Tool Proficiency Dashboard:</h3>
+
+<div align="left">
+
+<strong>Excel:</strong> ▓▓▓▓▓▓▓▓▓░ 80%<br>
+<strong>Power BI:</strong> ▓▓▓▓▓▓▓▓▓▓░ 89%<br>
+<strong>MySQL:</strong> ▓▓▓▓▓▓▓▓▓▓░ 90%
+
 </div>
 
 ###
