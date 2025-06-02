@@ -1,15 +1,15 @@
-<h2 align="left">Hi 👋! I'm Ikay Analyst Solutions, a data enthusiast based in Lagos, Nigeria 📊 I’m working as a Data Analyst with hands-on experience in Excel, SQL, Power BI, Python 📚 I'm currently learning advanced data visualization and database design ⚡ In my free time I build real-world data dashboards and solve analytical problems</h2>
+<h2 align="left">Hi 👋! I'm Ikay Analyst Solutions, a data enthusiast based in Lagos, Nigeria 📊  
+I’m working as a Data Analyst with hands-on experience in Excel, SQL, Power BI, Python 📚  
+I'm currently learning advanced data visualization and database design ⚡  
+In my free time I build real-world data dashboards and solve analytical problems</h2>
 
 ###
 
+<!-- GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ikayanalyst&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikayanalyst&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Most%20Used%20Language:%20Python" height="150" alt="Top Languages" />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -23,6 +23,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+</div>
+
+###
+
+<h3 align="left">📊 Tool Proficiency Dashboard:</h3>
+
+<div align="left">
+  <strong>Excel:</strong> ▓▓▓▓▓▓▓▓▓░ 80%<br>
+  <strong>Power BI:</strong> ▓▓▓▓▓▓▓▓▓▓░ 89%<br>
+  <strong>MySQL:</strong> ▓▓▓▓▓▓▓▓▓▓░ 90%
 </div>
 
 ###
@@ -46,6 +56,16 @@
 
 ###
 
-<br clear="both">
+<!-- Empowering Message with Animation -->
+<h3 align="left">📈 Empowering decisions through data-driven analysis</h3>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<table>
+  <tr>
+    <td>
+      <p>I leverage data storytelling to turn raw data into insights that drive impact. Whether it's business dashboards, visual reports, or structured SQL solutions, I'm all about enabling smarter decisions!</p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="200" alt="Educational Chart Animation" />
+    </td>
+  </tr>
+</table>
