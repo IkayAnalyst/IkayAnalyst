@@ -25,13 +25,13 @@
 <h3 align="left">📫 Connect with Me:</h3>
 
 <div align="left">
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:your.ikayanalystsolutions" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/ikayprince_10" target="_blank">
+  <a href="https://www.instagram.com/ikay_analyst_solutions/?igsh=YmJhZmV2bWN5dnlr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/@ikayanalyst" target="_blank">
