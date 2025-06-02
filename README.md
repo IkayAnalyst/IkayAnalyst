@@ -8,6 +8,27 @@
 
 ###
 
+<h3 align="left">📊 Tools & Technologies Usage:</h3>
+
+<div align="left">
+  <p>📈 <strong>Excel</strong></p>
+  <div style="background-color: #444; width: 100%; border-radius: 10px;">
+    <div style="background-color: #1D6F42; width: 80%; padding: 5px; border-radius: 10px; color: white; text-align: right;">80%</div>
+  </div>
+  <br />
+  <p>📈 <strong>Power BI</strong></p>
+  <div style="background-color: #444; width: 100%; border-radius: 10px;">
+    <div style="background-color: #F2C811; width: 89%; padding: 5px; border-radius: 10px; color: black; text-align: right;">89%</div>
+  </div>
+  <br />
+  <p>📈 <strong>MySQL</strong></p>
+  <div style="background-color: #444; width: 100%; border-radius: 10px;">
+    <div style="background-color: #00758F; width: 90%; padding: 5px; border-radius: 10px; color: white; text-align: right;">90%</div>
+  </div>
+</div>
+
+###
+
 <h3 align="left">💼 My Core Skills:</h3>
 
 <div align="left">
