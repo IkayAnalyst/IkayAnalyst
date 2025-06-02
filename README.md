@@ -58,6 +58,13 @@ In my free time I build real-world data dashboards and solve analytical problems
 
 <p><strong>📧 Email:</strong> <a href="mailto:ikayanalystsolutions@gmail.com">ikayanalystsolutions@gmail.com</a></p>
 
+<p><strong>📅 Book a Free Discovery Call:</strong>  
+<a href="https://calendly.com/ikayanalyst/30min" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Book%20a%20Call&logo=google-calendar&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Book a Call" />
+</a>
+</p>
+
+
 
 
 ###
