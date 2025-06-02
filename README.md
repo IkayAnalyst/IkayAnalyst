@@ -13,11 +13,6 @@ In my free time I build real-world data dashboards and solve analytical problems
 
 ###
 
-<!-- Professional Animation (Male Analyst Character) -->
-<img align="right" height="150" src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" alt="Data analyst animation" />
-
-###
-
 <h3 align="left">💼 My Core Skills:</h3>
 
 <div align="left">
