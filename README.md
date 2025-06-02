@@ -57,7 +57,7 @@ In my free time I build real-world data dashboards and solve analytical problems
 ###
 
 <!-- Educational Animation -->
-<h3 align="left">📈 Empowering decisions through data-driven!</h3>
+<h3 align="left">📈 Empowering decisions through data driven analysis!</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="200" alt="Educational Chart Animation" />
