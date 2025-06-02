@@ -57,7 +57,7 @@ In my free time I build real-world data dashboards and solve analytical problems
 ###
 
 <!-- Empowering Message with Animation -->
-<h3 align="left">📈 Empowering decisions through data-driven analysis</h3>
+<h3 align="left">📈 Empowering decisions through data driven analysis</h3>
 
 <table>
   <tr>
