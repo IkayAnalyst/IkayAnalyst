@@ -56,9 +56,16 @@ In my free time I build real-world data dashboards and solve analytical problems
 
 ###
 
-<!-- Educational Animation -->
-<h3 align="left">📈 Empowering decisions through data driven analysis!</h3>
+<!-- Empowering Message with Animation -->
+<h3 align="left">📈 Empowering decisions through data-driven analysis</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="200" alt="Educational Chart Animation" />
-</div>
+<table>
+  <tr>
+    <td>
+      <p>I leverage data storytelling to turn raw data into insights that drive impact. Whether it's business dashboards, visual reports, or structured SQL solutions, I'm all about enabling smarter decisions!</p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="200" alt="Educational Chart Animation" />
+    </td>
+  </tr>
+</table>
