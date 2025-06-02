@@ -40,11 +40,7 @@
 
 ###
 
-<h3 align="left">📈 Data is Beautiful!</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" height="200" alt="Animated Charts" />
-</div>
 
 
 <div align="left">
