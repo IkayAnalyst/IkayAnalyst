@@ -40,7 +40,7 @@ In my free time I build real-world data dashboards and solve analytical problems
 <h3 align="left">📫 Connect with Me:</h3>
 
 <div align="left">
-  <a href="mailto:ikayanalystsolutions@gmail.com" target="_blank">
+  <a href="mailto:your.ikayanalystsolutions@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
@@ -54,31 +54,11 @@ In my free time I build real-world data dashboards and solve analytical problems
   </a>
 </div>
 
-<br>
-
-<p><strong>📧 Email:</strong> <a href="mailto:ikayanalystsolutions@gmail.com"
-
-<p><strong>📅 Book a Free Discovery Call:</strong>  
-<a href="https://calendly.com/myexcel57/30min" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Book%20a%20Call&logo=google-calendar&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Book a Call" />
-</a>
-</p>
-
-
-
-
 ###
 
-<!-- Empowering Message with Animation -->
-<h3 align="left">📈 Empowering decisions through data-driven analysis</h3>
+<!-- Educational Animation -->
+<h3 align="left">📈 Empowering decisions through data driven analysis!</h3>
 
-<table>
-  <tr>
-    <td>
-      <p>I leverage data storytelling to turn raw data into insights that drive impact. Whether it's business dashboards, visual reports, or structured SQL solutions, I'm all about enabling smarter decisions!</p>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="200" alt="Educational Chart Animation" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="200" alt="Educational Chart Animation" />
+</div>
