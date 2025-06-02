@@ -22,7 +22,17 @@
 
 ###
 
-<h3 align="left">📫 Connect with Me:</h3>
+<h3 align="left">💋 Projects Showcase:</h3>
+
+<ul>
+  <li><strong>Student Result & GPA Tracker (Excel)</strong>: Automated grading, GPA calculation, and classification with conditional formatting.</li>
+  <li><strong>Mini Banking System (MySQL)</strong>: Simulates core banking operations using relational database queries and transactions.</li>
+  <li><strong>U.S. Traffic Incident Analysis (Power BI)</strong>: Dashboard providing insights into traffic events across various U.S. cities.</li>
+</ul>
+
+###
+
+<h3 align="left">📢 Connect with Me:</h3>
 
 <div align="left">
   <a href="mailto:your.email@example.com" target="_blank">
